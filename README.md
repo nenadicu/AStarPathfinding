@@ -1,2 +1,2 @@
 # AStarPathfinding
-Pathfinding usin A Star algorithm
+Pathfinding using A Star algorithm
